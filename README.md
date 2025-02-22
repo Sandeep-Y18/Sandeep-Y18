@@ -1,3 +1,8 @@
+<div style="width: 100%;">
+  <a href="https://github.com/Mumtaj-A/Mumtaj-A/blob/c1e354c4103a8733c1b47f05926b702b2a1b93f6/mumtaj.svg">
+    <img src="SANDEEP.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 <h1 align="center">Hi 👋, I'm Sandeep-Y18</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
